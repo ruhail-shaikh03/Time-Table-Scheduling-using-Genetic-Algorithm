@@ -1,0 +1,530 @@
+Object Oriented Programming (CS)
+BCS-2A	Dr. Ali Zeeshan Ijaz
+BCS-2B	Dr. Ali Zeeshan Ijaz
+BCS-2C	Mr. Shehreyar Rashid 
+BCS-2D	Mr. Shehreyar Rashid 
+BCS-2E	Ms. Marium Hida 
+BCS-2F	Ms. Marium Hida 
+BCS-2G	Mr. Shehreyar Rashid 
+Digital Logic Design (CS)
+BCS-2A	Mr. Amir Gulzar
+BCS-2B	Mr. Amir Gulzar
+BCS-2C	Dr. Mehwish Hassan
+BCS-2D	Mr. Amir Gulzar
+BCS-2E	Mr. Shams Farooq 
+BCS-2F	Mr. Shams Farooq 
+BCS-2G	Mr. Shams Farooq 
+Object Oriented Programming (AI)
+BAI-2A	Mr. Hassan Raza
+BAI-2B	Mr. Adil Majeed
+Discrete Structures (AI)
+BAI-2A	Ms. Zonera Anjum
+BAI-2B	Ms. Zonera Anjum
+Object Oriented Programming (DS)
+BDS-2A	Ms. Kainat Iqbal
+BDS-2B	Mr. Adil Majeed
+BDS-2C	Mr. Adil Majeed
+Discrete Structures (DS)
+BDS-2A	Ms. Saira Qamar
+BDS-2B	Ms. Saira Qamar
+BDS-2C	Ms. Saira Qamar
+Object Oriented Programming (CY)
+BCY-2A	Mr. Jawad Hassan
+BCY-2B	Mr. Jawad Hassan
+Digital Logic Design (CY)
+BCY-2A	Ms. Hina binte Haq
+BCY-2B	Ms. Hina binte Haq
+BCY-2C	Dr. Uzair Iqbal
+Object Oriented Programming (SE)
+BSE-2A	Mr. Pir Sami Ullah Shah
+BSE-2B	Dr. Naveed Ahmad
+Digital Logic Design (SE)
+BSE-2A	Dr. Mehwish Hassan
+BSE-2B	Dr. Mehwish Hassan
+Introduction to Software Engineering (SE)
+BSE-2A	Dr. Irum Inayat
+BSE-2B	Dr. Irum Inayat
+Discrete Structures (SE)
+BSE-2A	Dr. Usman Habib
+BSE-2B	Dr. Usman Habib
+Programming Fundamentals (CS)
+BCS-2A	Ms. Nirmal Tariq 
+BCS-2B	Ms. Urooj Ghani 
+Programming Fundamentals (AI&DS)
+BAI-2A	Dr. Hasan Mujtaba
+BDS-2B	Dr. Hasan Mujtaba
+Programming Fundamentals (CY)
+BCY-2A	Dr. Subhan Ullah
+Programming Fundamentals (SE)
+BSE-2A	Dr. Asif Muhammad
+Database Systems (CS)
+BCS-4A	Dr. Syed Qaiser Ali Shah
+BCS-4B	Dr. Syed Qaiser Ali Shah
+BCS-4C	Dr. Syed Qaiser Ali Shah
+BCS-4D	Ms. Noor ul Ain 
+BCS-4E	Ms. Noor ul Ain 
+BCS-4F	Mr. Majid Hussain 
+BCS-4G	Ms. Rabail Zahid
+BCS-4H	Mr. Majid Hussain 
+BCS-4J	Mr. Majid Hussain 
+BCS-4K	Ms. Rabail Zahid
+Operating Systems (CS)
+BCS-4A	Dr. Adnan Tariq
+BCS-4B	Ms. Maryam Shahbaz 
+BCS-4C	Ms. Maryam Shahbaz 
+BCS-4D	Ms. Maryam Shahbaz 
+BCS-4E	Mr. M. Aadil Ur Rehman 
+BCS-4F	Ms. Rabail Zahid
+BCS-4G	Dr. Faisal Cheema
+BCS-4H	Dr. Faisal Cheema
+BCS-4J	Ms. Rabail Zahid
+BCS-4K	Dr. Faisal Cheema
+Design and Analysis of Algorithms(CS)
+BCS-4A	Dr. Kashif Munir
+BCS-4B	Dr. Kashif Munir
+BCS-4C	Mr. Owais Idrees 
+BCS-4D	Mr. Owais Idrees 
+BCS-4E	Dr. Kashif Munir
+BCS-4F	Mr. Owais Idrees 
+BCS-4G	Ms. Nirmal Tariq 
+BCS-4H	Ms. Amna Irum 
+BCS-4J	Ms. Amna Irum 
+BCS-4K	Ms. Nirmal Tariq 
+Artificial Intelligence (AI)
+BAI-4A	Mr. Shoaib Saleem Khattak
+BAI-4B	Mr. Shoaib Saleem Khattak
+BAI-4C	Ms. Kanza Hamid
+BAI-4D	Mr. Shoaib Saleem Khattak
+Fundamentals of Software Engineering (AI)
+BAI-4A	Ms. Laraib Afzaal
+BAI-4B	Ms. Laraib Afzaal
+BAI-4C	Ms. Zonera Anjum
+BAI-4D	Ms. Laraib Afzaal
+Database Systems (AI)
+BAI-4A	Ms. Mahnoor Tariq
+BAI-4B	Dr. Waseem Shahzad
+BAI-4C	Dr. Asif Naeem
+BAI-4D	Dr. Asif Naeem
+Computer Organization and Assembly Language (AI)
+BAI-4A	Mr. Shahbaz Hassan
+BAI-4B	Mr. Shahbaz Hassan
+BAI-4C	Mr. Ahmad Raza
+BAI-4D	Mr. Shahbaz Hassan
+Database Systems (DS)
+BDS-4A	Dr. Ramoza Ahsan
+BDS-4B	Ms. Ayesha Kamran
+BDS-4C/D	Dr. Ramoza Ahsan
+Computer Organization & Assembly Language (DS)
+BDS-4A	Ms. Mehreen Javaid
+BDS-4B	Ms. Mehreen Javaid
+BDS-4C	Mr. Ahmad Raza
+BDS-4D	Mr. Ahmad Raza
+Advanced Statistics (DS)
+BDS-4A	Dr. Ahmad Din
+BDS-4B	Dr. Ahmad Din
+BDS-4C	Mr. Hazber Samson
+BDS-4D	Mr. Hazber Samson
+Fundamentals of Big Data Analytics (DS)
+BDS-4A	Ms. Kainat Iqbal
+BDS-4B	Ms. Kainat Iqbal
+BDS-4C	Dr. Muhammad Ishtiaq
+BDS-4D	Dr. Muhammad Ishtiaq
+Computer Networks (CY)	
+BCY-4A	Dr. Muhammad Asim
+BCY-4B	Dr. Subhan Ullah
+BCY-4C/D	Dr. Subhan Ullah
+Computer Organization & Assembly Language (CY)	
+BCY-4A	Ms. Farheen Tabassum
+BCY-4B	Ms. Farheen Tabassum
+BCY-4C	Ms. Sana Aurangzeb
+BCY-4D	Ms. Farheen Tabassum
+Operating System (CY)	
+BCY-4A	Mr. Khwaja Bilal Hassan
+BCY-4B	Mr. Khwaja Bilal Hassan
+BCY-4C/D	Mr. Khwaja Bilal Hassan
+Web Programming (CY)	
+BCY-4A	Mr. Umer Farooq
+Database Systems (SE)	
+BSE-4A	Dr. Asif Muhammad
+BSE-4B	Dr. Asif Muhammad
+BSE-4C/F	Mr. Zeshan Khan
+BSE-4D	Mr. Bilal Khalid Dar
+BSE-4E	Mr. Bilal Khalid Dar
+BSE-4G	Mr. Zeshan Khan
+Software Design and Architecture (SE)	
+BSE-4A	Dr. Atif Jilani
+BSE-4B	Ms. Nigar Azhar Butt
+BSE-4C	Ms. Nigar Azhar Butt
+BSE-4D	Ms. Nigar Azhar Butt
+BSE-4E	Dr. Khubaib Amjad
+BSE-4F	Dr. Khubaib Amjad
+BSE-4G	Dr. Khubaib Amjad
+Business Process Engineering (SE Supporting - I)	
+BSE-4A	Ms. Maheen Arshad Malik
+BSE-4B	Ms. Maheen Arshad Malik
+BSE-4C	Dr. Isma Ul Hassan
+BSE-4D	Dr. Isma Ul Hassan
+BSE-4E	Dr. Behjat Zuhaira
+BSE-4F	Dr. Isma Ul Hassan
+BSE-4G	Dr. Behjat Zuhaira
+Data Structures (CS)
+BCS-4A	Ms. Tajwar Mehmood 
+BCS-4B	Ms. Tajwar Mehmood 
+BCS-4C	Ms. Tajwar Mehmood 
+BCS-4D	Ms. Amna Irum 
+Data Structures (AI)	
+BAI-4A	Mr. Atif Khurshid
+BAI-4B	Ms. Mahnoor Tariq
+Data Structures (DS)	
+BDS-4A	Mr. Atif Khurshid
+BDS-4B	Ms. Mahnoor Tariq
+Programming for AI (AI)	
+BAI-4A	Mr. Atif Khurshid
+Data Structures(CY)
+BCY-4A	Ms. Sana Aurangzeb
+BCY-4B	Ms. Sana Aurangzeb
+Data Structures (SE)
+BSE-4A	Ms. Saba Kanwal
+BSE-4B	Ms. Saba Kanwal
+Software Engineering (CS)
+BCS-6A	Dr. Javaria Imtiaz
+BCS-6B	Dr. Javaria Imtiaz
+BCS-6C	Mr. Basharat Hussain
+BCS-6D	Ms. Saba Kanwal
+BCS-6E	Ms. Shafaq Riaz
+BCS-6F	Ms. Sidra Khalid 
+BCS-6G	Ms. Sidra Khalid 
+BCS-6H	Ms. Maheen Arshad Malik
+BCS-6Y	Mr. Bilal Khalid Dar
+BCS-6Z	Mr. Bilal Khalid Dar
+Parallel and Distributed Computing (CS)	
+BCS-6A	Dr. Muhammad Aleem
+BCS-6B	Dr. Muhammad Aleem
+BCS-6C	Dr. Muhammad Aleem
+BCS-6D	Mr. Muhammad Farrukh Bashir 
+BCS-6E	Mr. Muhammad Farrukh Bashir 
+BCS-6F	Mr. Muhammad Farrukh Bashir 
+BCS-6G	Mr. M. Aadil Ur Rehman 
+BCS-6H	Dr. Muhammad Arshad Islam
+BCS-6Y	Dr. Muhammad Arshad Islam
+BCS-6Z	Mr. M. Aadil Ur Rehman 
+Artificial Intelligence (CS)	
+BCS-6Z	Mr. Usama Imtiaz 
+BCS-6B	Mr. Usama Imtiaz 
+BCS-6C	Dr. Ahmad Raza Shahid
+BCS-6D	Dr. Ahmad Raza Shahid
+BCS-6E	Dr. Ali Zeeshan Ijaz
+BCS-6F	Dr. Labiba Fahad
+BCS-6G	Dr. Labiba Fahad
+BCS-6H	Mr. Saad Salman 
+BCS-6Y	Mr. Saad Salman 
+BCS-6A	Mr. Owais Idrees 
+Numerical Computing (CS)
+BCS-6A	Dr. Muhammad Ali
+BCS-6B	Dr. Imran Ashraf
+BCS-6C	Dr. Muhammad Ali
+BCS-6D	Dr. Muhammad Ali
+BCS-6E	Mr. Muhammad Almas Khan 
+BCS-6F	Mr. Muhammad Almas Khan 
+BCS-6G	Mr. Muhammad Almas Khan 
+BCS-6H	Dr. Imran Ashraf
+BCS-6Y	Dr. Mukhtar Ullah
+BCS-6Z	Dr. Muhammad Ali
+Digital Image Processing (CS)	
+BCS-6A	Mr. Shahzaib 
+BCS-6B	Mr. Shahzaib 
+Software for Mobile Devices (CS)
+BCS-6A	Mr. Saad Salman 
+BCS-6B	Ms. Noor ul Ain 
+Web Programming (CS)
+BCS-6A	Mr. Aqib Rehman 
+BCS-6B	Mr. Aqib Rehman 
+Machine Learning for Robotics (BS-Robotics)
+BSR-6A	Dr. Imran Ashraf
+Artificial Neural Networks (AI)
+BAI-6J	Mr. Hassan Raza
+BAI-6K	Mr. Hassan Raza
+Computer Networks (AI)	
+BAI-6J	Dr. Abid Rauf
+BAI-6K	Dr. Abid Rauf
+Parallel and Distributed Computing (AI)	
+BAI-6J	Dr. Qaisar Shafi
+BAI-6K	Dr. Qaisar Shafi
+Fundamentals of Natural Language Processing	(AI)
+BAI-6J	Mr. Saad Salman 
+Digital Image Processing (AI Elective-I)	
+BAI-6J	Mr. Usman Haider
+BAI-6K	Mr. Usman Haider
+Artificial Intelligence (DS)	
+BDS-6M	Ms. Khadija Mahmood
+BDS-6N	Ms. Khadija Mahmood
+BDS-6U	Ms. Khadija Mahmood
+Parallel and Distributed Computing (DS)	
+BDS-6M	Ms. Parisa Salma
+BDS-6N	Ms. Parisa Salma
+Data Mining (DS)	
+BDS-6M	Ms. Ayesha Kamran
+BDS-6N	Ms. Ayesha Kamran
+Web Programming (DS Elective-1)
+BDS-6M	Ms. Kanza Hamid
+BDS-6N	Ms. Kanza Hamid
+Digital Forensics (CY)
+BCY-6T	Mr. Mehmood ul Hassan
+Information Security (CY)
+BCY-6T	Mr. Abdullah Abid
+Artificial Intelligence (CY)	
+BCY-6T	Mr. Shoaib Saleem Khattak
+Vulnerability Assessment and Reverse Eng (CY)
+BCY-6T	Mr. Jawad Hassan
+Ethical Hacking Concepts and Practices (CY)	
+BCY-6T	Mr. Mehmood ul Hassan
+Software Construction & Development (SE)
+BSE-6P	Mr. Zaheer ul Hussain Sani
+BSE-6Q	Mr. Zaheer ul Hussain Sani
+Computer Networks (SE)	
+BSE-6P	Mr. Zeshan Khan
+BSE-6Q	Mr. Zeshan Khan
+Information Security (SE)
+BSE-6P	Mr. Abdullah Abid
+BSE-6Q	Mr. Abdullah Abid
+Applied Artificial Intelligence (SE Elective - I)	
+BSE-6P	Ms. Shahela Saif
+BSE-6Q	Ms. Shahela Saif
+Process Mining and Simulation  (SE Supporting-II)	
+BSE-6P	Mr. Irfan Ullah
+BSE-6Q	Mr. Irfan Ullah
+Theory of Automata 	(CS)
+BCS-6A	Dr. Mehreen Alam
+BCS-6B	Dr. Mehreen Alam
+Software Design and Analysis (CS)	
+BCS-6A	Mr. Majid Hussain 
+Computer Networks   (CS)
+BCS-6A	Dr. Syed Qaiser Ali Shah
+BCS-6B	Mr. M. Aadil Ur Rehman 
+Professional Practices in IT (AI)	
+BAI-8J	Dr. Atif Mughees
+BAI-8K	Dr. Atif Mughees
+Information Security (AI)	
+BAI-8J	Mr. Usman Haider
+BAI-8K	Mr. Usman Haider
+Game Theory and Its Application (AI-Elective-IV)	
+BAI-6JK	Dr. Omer Beg
+Game Theory and Its Application (DS-Elective-III)	
+BDS-8N	Dr. Omer Beg
+MLOPS (DS-Elective-IV)	
+BDS-8N	Mr. Pir Sami Ullah Shah
+Professional Practices in IT (CY)	
+BCY-8T	Mr. Sabqat Manzoor 
+Professional Practices in IT (SE)
+BSE-7P	Ms. Uzma Mahar
+BSE-7Q	Mr. Sabqat Manzoor 
+BSE-7R	Dr. Aftab Ahmed Maroof
+Generative AI (CS)
+BCS-A	Dr. Akhtar Jamil
+BCS-B	Dr. Akhtar Jamil
+Web Programming	(CS)
+BCS-A	Mr. Irfan Ullah
+Distributed Data Engineering (CS)
+BCS-A	Dr. Adnan Tariq
+BCS-B	Dr. Adnan Tariq
+Data Mining (CS)
+BCS-A	Mr. Basharat Hussain
+BCS-B	Mr. Farrukh Bashir
+Cloud Security (CS)
+BCS-A	Dr. Abid Rauf
+BCS-B	Dr. Abid Rauf
+Fundamentals of Software Project Management	 (CS)
+BCS-A	Dr. Noreen Jamil
+BCS-B	Mr. Khateeb Khan
+Fundamentals of Malware Analysis  (CS)
+BCS-A	Mr. Jawad Hassan
+Cloud Computing (SE)	
+BSE-A	Mr. Zaheer ul Hussain Sani
+Cloud Computing (CS)
+BCS-A	Mr. Basharat Hussain
+BCS-B	Mr. Basharat Hussain
+Blockchain and Cryptocurrency (CS)	
+BCS-A	Ms. Urooj Ghani 
+BCS-B	Ms. Urooj Ghani 
+MLOPs	(SE)
+BSE-A	Mr. Pir Sami Ullah Shah
+BCS-A	Dr. Hammad Majeed
+BCS-B	Mr. Pir Sami Ullah Shah
+Ethical Hacking Concepts and Practices (CS)
+BCS-A	Mr. Mehmood ul Hasan
+BCS-B	Mr. Mehmood ul Hasan
+
+Object Oriented Programming Lab (CS)	
+BCS-2A	Ms. Bushra Fatima Tariq 
+BCS-2B	Ms. Bushra Fatima Tariq 
+BCS-2C	Ms. Bushra Fatima Tariq 
+BCS-2D	Mr. Usama Bin Imran 
+BCS-2E	Mr. Usama Bin Imran 
+BCS-2F	Mr. Usama Bin Imran 
+BCS-2G	Ms. Shah Noor Haider
+Digital Logic Design Lab (CS)	
+BCS-2A	Ms. Ifrah Maqsood (EE)
+BCS-2B	Mr. Sohail Aziz
+BCS-2C	Ms. Ifrah Maqsood (EE)
+BCS-2D	Mr. Sohail Aziz
+BCS-2E	Ms. Ifrah Maqsood (EE)
+BCS-2F	Mr. Sohail Aziz
+BCS-2G	Ms. Ifrah Maqsood (EE)
+Object Oriented Programming Lab (AI)	
+BAI-2A	Ms. Mubarra Asma
+BAI-2B	Ms. Mubarra Asma
+Object Oriented Programming Lab (DS)	
+BDS-2A	Mr. Ammar Masood
+BDS-2B	Mr. Ammar Masood
+BDS-2C	Mr. Ammar Masood
+Object Oriented Programming Lab (CY)	
+BCY-2A	Ms. Aneeqa Khalil 
+BCY-2B	Ms. Aneeqa Khalil 
+Digital Logic Design Lab (CY)	
+BCY-2A	Ayesha Qaiser Hashmi
+BCY-2B	Ayesha Qaiser Hashmi
+BCY-2C	Ayesha Qaiser Hashmi
+Object Oriented Programming Lab (SE)	
+BSE-2A	Ms. Zoya Sumbal Zaheer
+BSE-2B	Ghulam Fatima
+Digital Logic Design Lab (SE)	
+BSE-2A	Kanwal Naz
+Programming Fundamentals Lab (CS)
+BCS-2A	Ms. Eman Hassan 
+BCS-2B	Ms. Eman Hassan 
+Programming Fundamentals Lab (AI&DS)	
+BAI-2A	Ms. Mubarra Asma
+BAI-2B	Mr. Umar Akhtar
+Programming Fundamentals Labs (CY)
+BCY-2A	Ms. Aneeqa Khalil 
+Programming Fundamentals Lab (SE)	
+BSE-2A	Kanwal Naz
+Database Systems Lab (CS)	
+BCS-4A	Ms. Amina Siddique 
+BCS-4B	Ms. Amina Siddique 
+BCS-4C	Mr. Hassan Ali Ansari 
+BCS-4D	Mr. Hassan Ali Ansari 
+BCS-4E	Mr. Hassan Ali Ansari 
+BCS-4F	Mr. Hassan Ali Ansari 
+BCS-4G	Ms. Asma Tufail
+BCS-4H	Ms. Asma Tufail
+BCS-4J	Ms. Amina Siddique 
+BCS-4K	Ms. Asma Tufail
+Operating Systems Lab (CS)	
+BCS-4A	Ms. Javeria Zia 
+BCS-4B	Ms. Sana Razzaq 
+BCS-4C	Ms. Sana Razzaq 
+BCS-4D	Ms. Sana Razzaq 
+BCS-4E	Ms. Javeria Zia 
+BCS-4F	Ms. Javeria Zia 
+BCS-4G	Ms. Hajira Uzair
+BCS-4H	Ms. Hajira Uzair
+BCS-4J	Ms. Hajira Uzair
+BCS-4K	Mr. Sohail Aziz
+Artificial Intelligence Lab (AI)
+BAI-4A	Mr. Hammad Rasheed
+BAI-4B	Mr. Ehsan Ali
+BAI-4C	Mr. Ehsan Ali
+BAI-4D	Mr. Hammad Rasheed
+Database Systems Lab (AI)	
+BAI-4A	Ms. Palwasha Zahid
+BAI-4B	Ms. Palwasha Zahid
+BAI-4C	Ms. Palwasha Zahid
+BAI-4D	Ms. Palwasha Zahid
+Computer Organization and Assembly Language Lab (AI)
+BAI-4A	Ms. Ayesha Mariyam
+BAI-4B	Ms. Ayesha Mariyam
+BAI-4C	Ms. Ayesha Mariyam
+BAI-4D	Ms. Ayesha Mariyam
+Database Systems Lab (DS)	
+BDS-4A	Ms. Khizra Sohail
+BDS-4B	Ms. Khizra Sohail
+BDS-4C/D	Ms. Khizra Sohail
+Computer Organization & Assembly Language Lab (DS)	
+BDS-4A	Ms. Muzna Mahboob
+BDS-4B	Ms. Muzna Mahboob
+BDS-4C	Ms. Muzna Mahboob
+BDS-4D	Ms. Daniya Jadoon
+Fundamentals of Big Data Analytics Lab (DS)
+BDS-4A	Muhammad Sohail Abbas
+BDS-4B	Muhammad Sohail Abbas
+BDS-4C	Muhammad Sohail Abbas
+BDS-4D	Muhammad Sohail Abbas
+Operating System Lab (CY)	
+BCY-4A	Mr. Arslan Aslam
+BCY-4B	Mr. Arslan Aslam
+BCY-4C/D	Mr. Arslan Aslam
+Computer Networks Lab (CY)
+BCY-4A	Mr. Arslan Aslam
+BCY-4B	Ms. Sundus Amir
+BCY-4C/D	Ms. Sundus Amir
+Computer Organization & Assembly Language Lab (CY)
+BCY-4A	Mr. M Suleman Saboor 
+BCY-4B	Mr. M Suleman Saboor 
+BCY-4C	Mr. M Suleman Saboor 
+BCY-4D	Mr. M Suleman Saboor 
+Database Systems Lab (SE)
+BSE-4A	Muhammad Muneeb Baig
+BSE-4B	Muhammad Muneeb Baig
+BSE-4C/F	Muhammad Muneeb Baig
+BSE-4D	Ms. Daniya Jadoon
+BSE-4E	Ms. Daniya Jadoon
+BSE-4G	Ms. Daniya Jadoon
+Software Design and Architecture Lab (SE)	
+BSE-4A	Mr. Daniyal Hussain Shah
+BSE-4B	Mr. Daniyal Hussain Shah
+BSE-4C	Ms. Laiba Imran
+BSE-4D	Ms. Laiba Imran
+BSE-4E	Ms. Laiba Imran
+BSE-4F	Mr. Daniyal Hussain Shah
+BSE-4G	Mr. Daniyal Hussain Shah
+Data Structures Lab (CS)	
+BCS-4A	Ms. Hira Mastoor 
+BCS-4B	Ms. Shah Noor Haider
+BCS-4C	Ms. Shah Noor Haider
+BCS-4D	Ms. Hira Mastoor 
+Data Structures Lab (AI)	
+BAI-4A	Mr. Hammad Rasheed
+BAI-4B	Mr. Hammad Rasheed
+Data Structures Lab (DS)
+BDS-4A	Ehsan Ali
+BDS-4B	Ehsan Ali
+Programming for AI Lab  (AI)	
+BAI-4A	Ms. Maham Haider
+Data Structures Lab  (CY)	
+BCY-4A	Ms. Sadia Saad
+BCY-4B	Ms. Sadia Saad
+Data Structures Lab  (SE)	
+BSE-4A	Ghulam Fatima
+BSE-4B	Ghulam Fatima
+Artificial Intelligence Lab (CS)
+BCS-6A	Ms. Javeria Zia
+BCS-6B	Ms. Amina Ashfaq
+BCS-6C	Ms. Maira Hashmi
+BCS-6D	Ms. Maira Hashmi
+BCS-6E	Ms. Maira Hashmi
+BCS-6F	Ms. Amina Ashfaq
+BCS-6G	Ms. Amina Ashfaq
+BCS-6H	Ms. Zill-e-Huma
+BCS-6Y	Ms. Zill-e-Huma
+BCS-6Z	Ms. Zill-e-Huma
+Computer Networks Lab  (AI)
+BAI-6J	Ms. Maham Haider
+BAI-6K	Ms. Maham Haider
+Artificial Intelligence Lab (DS)	
+BDS-6M	Ms. Maryam Hussain
+BDS-6N	Ms. Maryam Hussain
+BDS-6U	Ms. Maryam Hussain
+Data Mining Lab (DS)	
+BDS-6M	Mr. Saad Munir
+BDS-6N	Mr. Saad Munir
+Digital Forensics Lab (CY)
+BCY-6A	Ms. Sundus Amir
+Artificial Intelligence Lab (CY)	
+BCY-6A	Ms. Saadia Saad
+Software Construction & Development Lab (SE)
+BSE-6P	Ms. Zoya Sumbal Zaheer
+BSE-6Q	Ms. Zoya Sumbal Zaheer
+Computer Networks Lab (SE)	
+BSE-6P	Mr. Naveed Khursheed
+BSE-6Q	Mr. Naveed Khursheed
